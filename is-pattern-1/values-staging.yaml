@@ -1,0 +1,5 @@
+wso2:
+    deployment:
+        wso2is:
+            dockerRegistry: "index.docker.io/savidude"
+            imageName: "wso2is"
