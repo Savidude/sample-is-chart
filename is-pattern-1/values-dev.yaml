@@ -3,3 +3,6 @@ wso2:
         wso2is:
             dockerRegistry: "index.docker.io/savidude"
             imageName: "wso2is"
+            imageTag: ""
+            imagePullSecrets: regcred
+            
