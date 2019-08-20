@@ -5,3 +5,4 @@ wso2:
             imageName: "wso2is"
             imageTag: ""
             imagePullSecrets: regcred
+
