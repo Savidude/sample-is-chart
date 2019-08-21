@@ -2,7 +2,7 @@ wso2:
     deployment:
         wso2ei:
             dockerRegistry: "index.docker.io/savidude"
-            imageName: "wso2ei"
+            imageName: "wso2ei-integrator"
             imageTag: ""
             imagePullSecrets: regcred
             
