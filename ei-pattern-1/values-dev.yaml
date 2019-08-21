@@ -5,4 +5,3 @@ wso2:
             imageName: "wso2ei-integrator"
             imageTag: ""
             imagePullSecrets: regcred
- 
